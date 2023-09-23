@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Remembrance|الأذكار</string>
+    <string name="app_name1">أهلا وسهلآ بكم</string>
+    <string name="app_name2">صلوا على الحبيب محمد ﷺ ♥ اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ الصلاة والسلام على الحبيب المصطفى ♥</string>
+    <string name="app_name3">أذكار الصباح</string>
+    <string name="app_name4">أذكار المساء</string>
+    <string name="app_name5">أذكار النوم</string>
+    <string name="app_name6">أذكار الاستيقاظ</string>
+    <string name="app_name7">أذكار بعد الصلاة</string>
+    <string name="app_name8">أذكار الصلاة</string>
+    <string name="app_name9">ختم القرأن الكريم</string>
+    <string name="app_name10">أذكار المسلم</string>
+    <string name="app_name11">أذكار المسجد</string>
+    <string name="app_name12">أدعية الأنبياء</string>
+    <string name="app_name13">أدعية قرأنية</string>
+    <string name="app_name14">أذكار الحج والعمرة</string>
+    <string name="app_name15">الرقية الشرعية</string>
+    <string name="app_name16">الاعدادات</string>
+    <string name="app_name17">الأذكار</string>
+    <string name="app_name18">مشاركة التطبيق</string>
+    <string name="app_name19">ستوريات قرأنية</string>
+    <string name="app_name20">تابعونا انستقرام</string>
+
+</resources>
